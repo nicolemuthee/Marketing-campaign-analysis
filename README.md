@@ -1,33 +1,32 @@
-# Marketing Campaign & Customer Insights
+## Business Insights
 
-## Project Overview
-An interactive Power BI dashboard analysing customer demographics, purchasing behaviour, product spending and marketing campaign acceptance.
+The Power BI dashboard explores customer spending, purchasing behaviour, demographics and marketing campaign acceptance.
 
-## Business Objective
-To understand customer purchasing patterns, evaluate previous marketing campaign performance and identify opportunities to improve customer engagement.
+### Key Findings
 
-## Tools Used
-- Microsoft Power BI Desktop
-- Power Query
-- DAX
-- GitHub
+1. **Product Spending:** Wine is the highest-spending product category among the six product categories analysed.
+2. **Campaign Performance:** The latest campaign appears to have the highest number of accepted responses in the campaign comparison.
+3. **Customer Demographics:** Customer distribution can be explored by education level using the interactive Education slicer.
+4. **Purchasing Behaviour:** Store purchases appear to be the most frequently used purchasing channel.
+5. **Campaign Response:** The dashboard tracks accepted customers and the overall response rate to help evaluate campaign engagement.
 
-## Dashboard Features
-- Customer overview and key performance indicators
-- Spending by product category
-- Marketing campaign acceptance analysis
-- Customer distribution by education
-- Purchasing channel analysis
-- Interactive slicers for customer segmentation
+### Interactive Features
 
-## Dataset
-The project uses the Marketing Campaign dataset, containing 2,240 customer records.
+Users can explore the report using slicers for:
+- Education level
+- Marital status
+- Campaign response (accepted or not accepted)
 
-## Key Skills Demonstrated
-- Data cleaning and transformation
-- Data modelling
-- DAX calculations
-- Data visualization
+The dashboard also includes customer KPIs, product spending comparisons, campaign performance and purchasing channel analysis.
+
+### Recommendations
+
+- Prioritise high-performing product categories such as wine when developing customer engagement strategies.
+- Investigate what contributed to the latest campaign's stronger acceptance.
+- Segment customers by education and marital status to understand differences in purchasing behaviour.
+- Use purchasing channel preferences to inform future marketing and customer engagement strategies.
+
+*Note: Findings are based on the available dataset and describe observed patterns, not proven causes. Dashboard figures may change when interactive filters are applied.*
 - Business intelligence and reporting
 
 ## Project Status
